@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/amelia.iml" filepath="$PROJECT_DIR$/.idea/amelia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kalkulator-kredytowy-amelia.iml" filepath="$PROJECT_DIR$/.idea/kalkulator-kredytowy-amelia.iml" />
     </modules>
   </component>
 </project>
