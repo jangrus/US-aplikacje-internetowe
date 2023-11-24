@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.3.4, created on 2023-11-22 20:43:31
-  from 'D:\xampp\htdocs\kalkulator-kredytowy-amelia\app\views\Hello.tpl' */
+/* Smarty version 4.3.4, created on 2023-11-21 23:48:06
+  from 'D:\xampp\htdocs\kalkulator-kredytowy-amelia\app\views\calculatorView.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_655e59e3051ba8_16478863',
+  'unifunc' => 'content_655d33a60a5cd5_96738692',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    'a2aff834ef9a666295355985dffb4f62d7cefac4' => 
+    'ea3cbe63e6e90c2a3c9f47987fcd4296b09da61e' => 
     array (
-      0 => 'D:\\xampp\\htdocs\\kalkulator-kredytowy-amelia\\app\\views\\Hello.tpl',
-      1 => 1700682209,
+      0 => 'D:\\xampp\\htdocs\\kalkulator-kredytowy-amelia\\app\\views\\calculatorView.tpl',
+      1 => 1700606881,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_655e59e3051ba8_16478863 (Smarty_Internal_Template $_smarty_tpl) {
+function content_655d33a60a5cd5_96738692 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
 
